@@ -74,4 +74,4 @@ const config = {
 
 ## Licence
 
-MIT
+[MIT](https://raw.githubusercontent.com/notaganin/CF-Worker-Dir/master/LICENSE)
